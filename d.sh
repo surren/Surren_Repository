@@ -1,5 +1,5 @@
 #!/bin/bash
-d=30
+d=38
 if [ $d -gt 35 ]
 then
 echo "D is greater"
