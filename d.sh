@@ -5,5 +5,5 @@ then
 echo "D is greater"
 else
 echo "D is less than 35"
-exit 1
+#exit 1
 fi
