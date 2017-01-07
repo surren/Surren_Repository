@@ -1,5 +1,5 @@
 #!/bin/bash
-e=30
+e=36
 if [ $e -gt 35 ]
 then
 echo "E is greater"
